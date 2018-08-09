@@ -1,0 +1,16 @@
+{
+  "symbol": "JT",
+  "address": "0xedee1335fba86d479208d2b7bcf77554cb8b2d44",
+  "overview":{
+    "zh": "JT是jtcc官方发行的唯一平台币。",
+    "en": "JT is the only platform currency officially issued by jtcc."
+  },
+  "email": "tony@jtcc.tk",
+  "state": "NORMAL",
+  "published_on": "2018-08-04",
+  "links": {
+    "twitter": "https://twitter.com/jtcctoken",
+    "facebook": "https://www.facebook.com/jtcctoken",
+    "github": "https://github.com/ty20125188/FT",
+  }
+}
